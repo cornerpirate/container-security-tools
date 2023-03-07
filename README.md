@@ -4,7 +4,7 @@ Tools to make container pentesting slightly easier. Mild gains at best.
 
 # dprenum.sh
 
-You can find private docker registries. These will be accessible over HTTP and you can "pull" and "push" images to them depending on how they are configured. Scenario (7 of kubernetes-goat)[https://madhuakula.com/kubernetes-goat/docs/scenarios/scenario-7] explains this eloquently.
+You can find private docker registries. These will be accessible over HTTP and you can "pull" and "push" images to them depending on how they are configured. Scenario [7 of kubernetes-goat](https://madhuakula.com/kubernetes-goat/docs/scenarios/scenario-7) explains this eloquently.
 
 Vulnerable Target: 
 
