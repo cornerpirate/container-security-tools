@@ -10,7 +10,7 @@ Vulnerable Target:
 
 Dprenum will access the ```/v2/_catalog``` URL to list all available images. You can then choose to pull one or all of them at once.
 
-Usage: dprenum -h <host> -p <port>
+Usage: ```dprenum -h <host> -p <port>```
 
 ```bash
 ./dprenum.sh -h 127.0.0.1 -p 1235
